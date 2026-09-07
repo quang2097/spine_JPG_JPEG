@@ -1,2 +1,2 @@
-D:/whateveraboutit/UIIS10K/img
-D:/whateveraboutit/UIIS10K2
+/mnt/d/whateveraboutit/UIIS10K/img
+/mnt/d/whateveraboutit/UIIS10K2
